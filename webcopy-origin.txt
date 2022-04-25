@@ -1,0 +1,1640 @@
+Uri: https://codebase-template.webflow.io/
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\index.htm
+Content Type: text/html
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/css/codebase-template.webflow.ebeaa3611.min.css
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\css\codebase-template.webflow.ebeaa3611.min.css
+Content Type: text/css
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d2af0a8f736_fav-32.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d2af0a8f736_fav-32.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d0623a8f735_fav-256.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d0623a8f735_fav-256.png
+Content Type: image/png
+
+Uri: https://codebase-template.webflow.io/product-tour/home-1
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\product-tour\home-1.html
+Content Type: text/html
+
+Uri: https://codebase-template.webflow.io/product-tour/home-2
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\product-tour\home-2.html
+Content Type: text/html
+
+Uri: https://codebase-template.webflow.io/product-tour/home-3
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\product-tour\home-3.html
+Content Type: text/html
+
+Uri: https://codebase-template.webflow.io/product-tour/home-4
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\product-tour\home-4.html
+Content Type: text/html
+
+Uri: https://codebase-template.webflow.io/product-tour/home-5
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\product-tour\home-5.html
+Content Type: text/html
+
+Uri: https://codebase-template.webflow.io/product/pricing-1
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\product\pricing-1.html
+Content Type: text/html
+
+Uri: https://codebase-template.webflow.io/product/pricing-2
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\product\pricing-2.html
+Content Type: text/html
+
+Uri: https://codebase-template.webflow.io/product/pricing-3
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\product\pricing-3.html
+Content Type: text/html
+
+Uri: https://codebase-template.webflow.io/product/customer
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\product\customer.html
+Content Type: text/html
+
+Uri: https://codebase-template.webflow.io/product/faq
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\product\faq.html
+Content Type: text/html
+
+Uri: https://codebase-template.webflow.io/product/download
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\product\download.html
+Content Type: text/html
+
+Uri: https://www.trustpilot.com/review/fouroom.co
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\review\fouroom.co.html
+Content Type: text/html
+
+Uri: https://codebase-template.webflow.io/company/about-us-1
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\company\about-us-1.html
+Content Type: text/html
+
+Uri: https://codebase-template.webflow.io/company/about-us-2
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\company\about-us-2.html
+Content Type: text/html
+
+Uri: https://codebase-template.webflow.io/company/about-us-3
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\company\about-us-3.html
+Content Type: text/html
+
+Uri: https://codebase-template.webflow.io/company/careers
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\company\careers.html
+Content Type: text/html
+
+Uri: https://codebase-template.webflow.io/company/blog
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\company\blog.html
+Content Type: text/html
+
+Uri: https://codebase-template.webflow.io/company/contact
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\company\contact.html
+Content Type: text/html
+
+Uri: https://codebase-template.webflow.io/company/legal
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\company\legal.html
+Content Type: text/html
+
+Uri: https://codebase-template.webflow.io/account/sign-up
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\account\sign-up.html
+Content Type: text/html
+
+Uri: https://codebase-template.webflow.io/account/sign-in
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\account\sign-in.html
+Content Type: text/html
+
+Uri: https://codebase-template.webflow.io/account/forgot-password
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\account\forgot-password.html
+Content Type: text/html
+
+Uri: https://codebase-template.webflow.io/401
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\401.html
+Content Type: text/html
+
+Uri: https://codebase-template.webflow.io/404
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\404.html
+Content Type: text/html
+
+Uri: https://webflow.com/templates/html/codebase-it-company-website-template
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\templates\html\codebase-it-company-website-template.html
+Content Type: text/html
+
+Uri: https://preview.webflow.com/preview/codebase-template?utm_medium=preview_link&utm_source=designer&utm_content=codebase-template&preview=9bcc2d17e02f46668246669e87fe371f&workflow=preview
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\preview\codebase-template.html
+Content Type: text/html
+
+Uri: https://codebase-template.webflow.io/customer-story/petsplay
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\customer-story\petsplay.html
+Content Type: text/html
+
+Uri: https://codebase-template.webflow.io/team/kaitlin-tremblay
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\team\kaitlin-tremblay.html
+Content Type: text/html
+
+Uri: https://codebase-template.webflow.io/job/senior-product-engineer-backend
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\job\senior-product-engineer-backend.html
+Content Type: text/html
+
+Uri: https://codebase-template.webflow.io/post/how-to-improve-web-design-process
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\post\how-to-improve-web-design-process.html
+Content Type: text/html
+
+Uri: https://codebase-template.webflow.io/getting-started/style-guide
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\getting-started\style-guide.html
+Content Type: text/html
+
+Uri: https://codebase-template.webflow.io/getting-started/instructions
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\getting-started\instructions.html
+Content Type: text/html
+
+Uri: https://codebase-template.webflow.io/getting-started/licensing
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\getting-started\licensing.html
+Content Type: text/html
+
+Uri: https://codebase-template.webflow.io/getting-started/changelog
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\getting-started\changelog.html
+Content Type: text/html
+
+Uri: https://codebase-template.webflow.io/team/crawford-weimann
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\team\crawford-weimann.html
+Content Type: text/html
+
+Uri: https://fonts.google.com/icons
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\icons.html
+Content Type: text/html
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d9cd4a8f705_logo_white.svg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d9cd4a8f705_logo_white.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d3255a8f6e2_dropdown_angle.svg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d3255a8f6e2_dropdown_angle.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949da2a5a8f6e3_trustpilotlogo-white.svg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949da2a5a8f6e3_trustpilotlogo-white.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d09dba8f719_screen-01.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d09dba8f719_screen-01.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d1f03a8f71a_screen-02.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d1f03a8f71a_screen-02.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d2f65a8f71b_screen-03.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d2f65a8f71b_screen-03.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d7e90a8f71c_screen-04.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d7e90a8f71c_screen-04.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949df358a8f71d_screen-05.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949df358a8f71d_screen-05.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d0c7da8f728_pricing-01.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d0c7da8f728_pricing-01.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d172aa8f734_pricing-02.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d172aa8f734_pricing-02.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949dceb8a8f733_pricing-03.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949dceb8a8f733_pricing-03.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d1b8ba8f727_customer.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d1b8ba8f727_customer.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d3947a8f722_case-study-detail.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d3947a8f722_case-study-detail.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d5d6da8f72a_faq.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d5d6da8f72a_faq.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d6eeea8f72b_download.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d6eeea8f72b_download.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6255b6666e3b835e2bf58a55_download-01.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6255b6666e3b835e2bf58a55_download-01.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d8657a8f72d_about-01.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d8657a8f72d_about-01.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d1071a8f725_about-02.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d1071a8f725_about-02.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d49f1a8f721_about-03.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d49f1a8f721_about-03.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949deebea8f72f_team-member.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949deebea8f72f_team-member.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949de562a8f723_careers.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949de562a8f723_careers.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d595aa8f724_careers-detail.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d595aa8f724_careers-detail.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d7bcea8f71e_blog.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d7bcea8f71e_blog.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d098da8f72c_blog-post.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d098da8f72c_blog-post.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d9834a8f726_contact.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d9834a8f726_contact.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d29baa8f729_legal.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d29baa8f729_legal.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/624b054be2e88962fd580c06_sign-up.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\624b054be2e88962fd580c06_sign-up.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/624b05e14a2bef28a5debfe8_sign-in.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\624b05e14a2bef28a5debfe8_sign-in.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/624b05fef2caaa6110cf3252_password.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\624b05fef2caaa6110cf3252_password.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d39c0a8f70c_bg-shape-05.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d39c0a8f70c_bg-shape-05.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d28aca8f62a_loader_three-dots-white.svg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d28aca8f62a_loader_three-dots-white.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239e6c983177206d7a7050c_icons.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239e6c983177206d7a7050c_icons.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239e44bd709af12979fe595_trustpilot.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239e44bd709af12979fe595_trustpilot.jpg
+Content Type: image/jpeg
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=6239c2cd52949d0f76a8f421
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\js\jquery-3.5.1.min.dc5e7f18c8.js
+Content Type: application/javascript
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/js/webflow.c53e36647.js
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\js\webflow.c53e36647.js
+Content Type: text/javascript
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d1b8ba8f727_customer-p-500.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d1b8ba8f727_customer-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d5d6da8f72a_faq-p-500.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d5d6da8f72a_faq-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6255b6666e3b835e2bf58a55_download-01-p-500.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6255b6666e3b835e2bf58a55_download-01-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d595aa8f724_careers-detail-p-500.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d595aa8f724_careers-detail-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d7bcea8f71e_blog-p-500.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d7bcea8f71e_blog-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d29baa8f729_legal-p-500.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d29baa8f729_legal-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/624b054be2e88962fd580c06_sign-up-p-500.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\624b054be2e88962fd580c06_sign-up-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/624b05e14a2bef28a5debfe8_sign-in-p-500.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\624b05e14a2bef28a5debfe8_sign-in-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/624b05fef2caaa6110cf3252_password-p-500.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\624b05fef2caaa6110cf3252_password-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d39c0a8f70c_bg-shape-05-p-500.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d39c0a8f70c_bg-shape-05-p-500.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d39c0a8f70c_bg-shape-05-p-800.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d39c0a8f70c_bg-shape-05-p-800.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d39c0a8f70c_bg-shape-05-p-1080.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d39c0a8f70c_bg-shape-05-p-1080.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d39c0a8f70c_bg-shape-05-p-1600.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d39c0a8f70c_bg-shape-05-p-1600.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d39c0a8f70c_bg-shape-05-p-2000.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d39c0a8f70c_bg-shape-05-p-2000.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d39c0a8f70c_bg-shape-05-p-2600.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d39c0a8f70c_bg-shape-05-p-2600.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239e6c983177206d7a7050c_icons-p-1080.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239e6c983177206d7a7050c_icons-p-1080.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239e44bd709af12979fe595_trustpilot-p-1080.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239e44bd709af12979fe595_trustpilot-p-1080.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949df848a8f5a8_Lights.svg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949df848a8f5a8_Lights.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d2f4ca8f6a4_html_5.svg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d2f4ca8f6a4_html_5.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949dfa17a8f6b4_sublime_text.svg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949dfa17a8f6b4_sublime_text.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d104fa8f6ba_wordpress.svg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d104fa8f6ba_wordpress.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d5115a8f6ed_Rectangle-75.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d5115a8f6ed_Rectangle-75.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949db44fa8f6ef_Rectangle-29.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949db44fa8f6ef_Rectangle-29.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d349fa8f6f1_Rectangle-41.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d349fa8f6f1_Rectangle-41.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d7e13a8f625_redd-5U_28ojjgms-unsplash.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d7e13a8f625_redd-5U_28ojjgms-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949dfb61a8f47c_logo-05-white.svg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949dfb61a8f47c_logo-05-white.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949ddc1da8f483_testimonial-01-bright-webflow-uikit.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949ddc1da8f483_testimonial-01-bright-webflow-uikit.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d0044a8f714_bg-shape-002.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d0044a8f714_bg-shape-002.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d7f0fa8f738_avatar-closeup-woman-03.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d7f0fa8f738_avatar-closeup-woman-03.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d5e8fa8f739_avatar-closeup-woman-02.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d5e8fa8f739_avatar-closeup-woman-02.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d36c0a8f654_slack.svg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d36c0a8f654_slack.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d5b49a8f650_gmail.svg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d5b49a8f650_gmail.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949dbd1ca8f656_evernote.svg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949dbd1ca8f656_evernote.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d7e5ca8f6ae_copernico-yfmU1uL_mp8.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d7e5ca8f6ae_copernico-yfmU1uL_mp8.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d0dd8a8f709_bg-shape-02.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d0dd8a8f709_bg-shape-02.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949daeb0a8f6af_world-map.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949daeb0a8f6af_world-map.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d0efaa8f6a6_windows-EcvKrEv0CPM.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d0efaa8f6a6_windows-EcvKrEv0CPM.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d1ff8a8f69f_quote-sign-04.svg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d1ff8a8f69f_quote-sign-04.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d4586a8f713_bg-shape-001.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d4586a8f713_bg-shape-001.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949dd1b8a8f703_blog-post-03.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949dd1b8a8f703_blog-post-03.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d7779a8f704_blog-post-07.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d7779a8f704_blog-post-07.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949deb51a8f700_blog-post-05.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949deb51a8f700_blog-post-05.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d0749a8f715_bg-shape-003.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d0749a8f715_bg-shape-003.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d25b0a8f6fe_blog-posts-06.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d25b0a8f6fe_blog-posts-06.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d5825a8f6f8_blog-posts-05.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d5825a8f6f8_blog-posts-05.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d3f4ea8f6f5_blog-posts-02.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d3f4ea8f6f5_blog-posts-02.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d19dea8f6f6_blog-posts-01.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d19dea8f6f6_blog-posts-01.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d5115a8f6ed_Rectangle-75-p-500.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d5115a8f6ed_Rectangle-75-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d5115a8f6ed_Rectangle-75-p-800.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d5115a8f6ed_Rectangle-75-p-800.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949db44fa8f6ef_Rectangle-29-p-500.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949db44fa8f6ef_Rectangle-29-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949db44fa8f6ef_Rectangle-29-p-800.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949db44fa8f6ef_Rectangle-29-p-800.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d349fa8f6f1_Rectangle-41-p-500.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d349fa8f6f1_Rectangle-41-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d349fa8f6f1_Rectangle-41-p-800.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d349fa8f6f1_Rectangle-41-p-800.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d7e13a8f625_redd-5U_28ojjgms-unsplash-p-500.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d7e13a8f625_redd-5U_28ojjgms-unsplash-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d7e13a8f625_redd-5U_28ojjgms-unsplash-p-800.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d7e13a8f625_redd-5U_28ojjgms-unsplash-p-800.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d7e13a8f625_redd-5U_28ojjgms-unsplash-p-1600.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d7e13a8f625_redd-5U_28ojjgms-unsplash-p-1600.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949ddc1da8f483_testimonial-01-bright-webflow-uikit-p-500.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949ddc1da8f483_testimonial-01-bright-webflow-uikit-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949ddc1da8f483_testimonial-01-bright-webflow-uikit-p-800.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949ddc1da8f483_testimonial-01-bright-webflow-uikit-p-800.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d0044a8f714_bg-shape-002-p-500.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d0044a8f714_bg-shape-002-p-500.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d0044a8f714_bg-shape-002-p-800.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d0044a8f714_bg-shape-002-p-800.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d0044a8f714_bg-shape-002-p-1080.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d0044a8f714_bg-shape-002-p-1080.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d0044a8f714_bg-shape-002-p-1600.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d0044a8f714_bg-shape-002-p-1600.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d0044a8f714_bg-shape-002-p-2000.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d0044a8f714_bg-shape-002-p-2000.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d7f0fa8f738_avatar-closeup-woman-03-p-500.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d7f0fa8f738_avatar-closeup-woman-03-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d7f0fa8f738_avatar-closeup-woman-03-p-800.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d7f0fa8f738_avatar-closeup-woman-03-p-800.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d7e5ca8f6ae_copernico-yfmU1uL_mp8-p-500.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d7e5ca8f6ae_copernico-yfmU1uL_mp8-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d7e5ca8f6ae_copernico-yfmU1uL_mp8-p-1080.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d7e5ca8f6ae_copernico-yfmU1uL_mp8-p-1080.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d0dd8a8f709_bg-shape-02-p-500.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d0dd8a8f709_bg-shape-02-p-500.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d0dd8a8f709_bg-shape-02-p-800.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d0dd8a8f709_bg-shape-02-p-800.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d0dd8a8f709_bg-shape-02-p-1080.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d0dd8a8f709_bg-shape-02-p-1080.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d0dd8a8f709_bg-shape-02-p-1600.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d0dd8a8f709_bg-shape-02-p-1600.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d0dd8a8f709_bg-shape-02-p-2000.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d0dd8a8f709_bg-shape-02-p-2000.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d0dd8a8f709_bg-shape-02-p-2600.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d0dd8a8f709_bg-shape-02-p-2600.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949daeb0a8f6af_world-map-p-500.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949daeb0a8f6af_world-map-p-500.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949daeb0a8f6af_world-map-p-800.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949daeb0a8f6af_world-map-p-800.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949daeb0a8f6af_world-map-p-1080.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949daeb0a8f6af_world-map-p-1080.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d0efaa8f6a6_windows-EcvKrEv0CPM-p-500.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d0efaa8f6a6_windows-EcvKrEv0CPM-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d0efaa8f6a6_windows-EcvKrEv0CPM-p-800.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d0efaa8f6a6_windows-EcvKrEv0CPM-p-800.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d4586a8f713_bg-shape-001-p-500.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d4586a8f713_bg-shape-001-p-500.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d4586a8f713_bg-shape-001-p-800.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d4586a8f713_bg-shape-001-p-800.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d4586a8f713_bg-shape-001-p-1080.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d4586a8f713_bg-shape-001-p-1080.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d4586a8f713_bg-shape-001-p-1600.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d4586a8f713_bg-shape-001-p-1600.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d4586a8f713_bg-shape-001-p-2000.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d4586a8f713_bg-shape-001-p-2000.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d4586a8f713_bg-shape-001-p-2600.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d4586a8f713_bg-shape-001-p-2600.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949dd1b8a8f703_blog-post-03-p-500.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949dd1b8a8f703_blog-post-03-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949dd1b8a8f703_blog-post-03-p-800.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949dd1b8a8f703_blog-post-03-p-800.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d7779a8f704_blog-post-07-p-1080.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d7779a8f704_blog-post-07-p-1080.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949deb51a8f700_blog-post-05-p-1080.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949deb51a8f700_blog-post-05-p-1080.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d0749a8f715_bg-shape-003-p-500.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d0749a8f715_bg-shape-003-p-500.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d0749a8f715_bg-shape-003-p-800.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d0749a8f715_bg-shape-003-p-800.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d0749a8f715_bg-shape-003-p-1080.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d0749a8f715_bg-shape-003-p-1080.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d0749a8f715_bg-shape-003-p-1600.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d0749a8f715_bg-shape-003-p-1600.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d0749a8f715_bg-shape-003-p-2000.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d0749a8f715_bg-shape-003-p-2000.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d0749a8f715_bg-shape-003-p-2600.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d0749a8f715_bg-shape-003-p-2600.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d25b0a8f6fe_blog-posts-06-p-500.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d25b0a8f6fe_blog-posts-06-p-500.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d5825a8f6f8_blog-posts-05-p-500.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d5825a8f6f8_blog-posts-05-p-500.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d5825a8f6f8_blog-posts-05-p-800.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d5825a8f6f8_blog-posts-05-p-800.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d5825a8f6f8_blog-posts-05-p-1080.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d5825a8f6f8_blog-posts-05-p-1080.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d3f4ea8f6f5_blog-posts-02-p-500.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d3f4ea8f6f5_blog-posts-02-p-500.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d3f4ea8f6f5_blog-posts-02-p-800.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d3f4ea8f6f5_blog-posts-02-p-800.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d3f4ea8f6f5_blog-posts-02-p-1080.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d3f4ea8f6f5_blog-posts-02-p-1080.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d19dea8f6f6_blog-posts-01-p-500.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d19dea8f6f6_blog-posts-01-p-500.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d19dea8f6f6_blog-posts-01-p-800.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d19dea8f6f6_blog-posts-01-p-800.png
+Content Type: image/png
+
+Uri: https://codebase-template.webflow.io/customer-story/foodos
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\customer-story\foodos.html
+Content Type: text/html
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d5c08a8f6e9_avatar-03.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d5c08a8f6e9_avatar-03.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d4c68a8f69c_surface-RQhV1Kj9uXY.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d4c68a8f69c_surface-RQhV1Kj9uXY.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d515da8f73a_Rectangle-75.svg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d515da8f73a_Rectangle-75.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949dd4cda8f6bb_logo-07-black.svg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949dd4cda8f6bb_logo-07-black.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d4615a8f6c1_logo-05-black.svg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d4615a8f6c1_logo-05-black.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d7aaea8f6bc_logo-01-black.svg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d7aaea8f6bc_logo-01-black.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d6870a8f6b9_logo-06-black.svg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d6870a8f6b9_logo-06-black.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949dc518a8f6b6_logo-02-black.svg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949dc518a8f6b6_logo-02-black.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d40bfa8f6b3_logo-04-black.svg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d40bfa8f6b3_logo-04-black.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d359ba8f716_bg-shape-004.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d359ba8f716_bg-shape-004.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d69b7a8f659_Rectangle-16.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d69b7a8f659_Rectangle-16.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2ce52949d0196a8f42c/6239c2ce52949d2793a8f49c_studio-republic-qeij_dhDhGg.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2ce52949d0196a8f42c\6239c2ce52949d2793a8f49c_studio-republic-qeij_dhDhGg.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2ce52949d0196a8f42c/6239c2ce52949d5407a8f4c5_logo-05-white.svg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2ce52949d0196a8f42c\6239c2ce52949d5407a8f4c5_logo-05-white.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/6239c2ce52949d0196a8f42c/6239c2ce52949dab72a8f48a_copernico-yfmU1uL_mp8.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2ce52949d0196a8f42c\6239c2ce52949dab72a8f48a_copernico-yfmU1uL_mp8.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2ce52949d0196a8f42c/6239c2ce52949d19b6a8f4b3_logo-06-white.svg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2ce52949d0196a8f42c\6239c2ce52949d19b6a8f4b3_logo-06-white.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d2301a8f717_bg-shape-005.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d2301a8f717_bg-shape-005.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d3e4ca8f66e_Rectangle-9.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d3e4ca8f66e_Rectangle-9.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d107ea8f688_Rectangle-8.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d107ea8f688_Rectangle-8.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949df829a8f66c_Rectangle-7.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949df829a8f66c_Rectangle-7.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d2a4ca8f6cd_Rectangle-11.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d2a4ca8f6cd_Rectangle-11.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d51b3a8f6d0_Rectangle-38.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d51b3a8f6d0_Rectangle-38.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949dfdb4a8f554_loewe-technology-fqtNTB2H_yY-unsplash.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949dfdb4a8f554_loewe-technology-fqtNTB2H_yY-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d77dfa8f718_bg-shape-006.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d77dfa8f718_bg-shape-006.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949dbd87a8f64c_chrome_os.svg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949dbd87a8f64c_chrome_os.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d0a85a8f64f_loom.svg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d0a85a8f64f_loom.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d92e7a8f64a_mailchimp.svg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d92e7a8f64a_mailchimp.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d5a60a8f633_ubuntu.svg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d5a60a8f633_ubuntu.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d521ca8f649_dropbox.svg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d521ca8f649_dropbox.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d58fba8f651_github.svg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d58fba8f651_github.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d2671a8f64b_trello.svg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d2671a8f64b_trello.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949db727a8f655_jira.svg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949db727a8f655_jira.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d263ba8f632_basecamp.svg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d263ba8f632_basecamp.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d4c68a8f69c_surface-RQhV1Kj9uXY-p-500.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d4c68a8f69c_surface-RQhV1Kj9uXY-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d4c68a8f69c_surface-RQhV1Kj9uXY-p-1080.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d4c68a8f69c_surface-RQhV1Kj9uXY-p-1080.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d359ba8f716_bg-shape-004-p-500.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d359ba8f716_bg-shape-004-p-500.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d359ba8f716_bg-shape-004-p-800.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d359ba8f716_bg-shape-004-p-800.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d359ba8f716_bg-shape-004-p-1080.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d359ba8f716_bg-shape-004-p-1080.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d359ba8f716_bg-shape-004-p-1600.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d359ba8f716_bg-shape-004-p-1600.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d359ba8f716_bg-shape-004-p-2000.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d359ba8f716_bg-shape-004-p-2000.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d359ba8f716_bg-shape-004-p-2600.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d359ba8f716_bg-shape-004-p-2600.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d69b7a8f659_Rectangle-16-p-500.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d69b7a8f659_Rectangle-16-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d69b7a8f659_Rectangle-16-p-800.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d69b7a8f659_Rectangle-16-p-800.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d2301a8f717_bg-shape-005-p-500.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d2301a8f717_bg-shape-005-p-500.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d2301a8f717_bg-shape-005-p-800.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d2301a8f717_bg-shape-005-p-800.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d2301a8f717_bg-shape-005-p-1080.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d2301a8f717_bg-shape-005-p-1080.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d2301a8f717_bg-shape-005-p-1600.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d2301a8f717_bg-shape-005-p-1600.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d2301a8f717_bg-shape-005-p-2000.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d2301a8f717_bg-shape-005-p-2000.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d2301a8f717_bg-shape-005-p-2600.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d2301a8f717_bg-shape-005-p-2600.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d3e4ca8f66e_Rectangle-9-p-500.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d3e4ca8f66e_Rectangle-9-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d3e4ca8f66e_Rectangle-9-p-800.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d3e4ca8f66e_Rectangle-9-p-800.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d107ea8f688_Rectangle-8-p-500.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d107ea8f688_Rectangle-8-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d107ea8f688_Rectangle-8-p-800.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d107ea8f688_Rectangle-8-p-800.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949df829a8f66c_Rectangle-7-p-500.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949df829a8f66c_Rectangle-7-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949df829a8f66c_Rectangle-7-p-800.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949df829a8f66c_Rectangle-7-p-800.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d2a4ca8f6cd_Rectangle-11-p-500.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d2a4ca8f6cd_Rectangle-11-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d2a4ca8f6cd_Rectangle-11-p-800.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d2a4ca8f6cd_Rectangle-11-p-800.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d51b3a8f6d0_Rectangle-38-p-500.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d51b3a8f6d0_Rectangle-38-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d51b3a8f6d0_Rectangle-38-p-800.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d51b3a8f6d0_Rectangle-38-p-800.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949dfdb4a8f554_loewe-technology-fqtNTB2H_yY-unsplash-p-800.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949dfdb4a8f554_loewe-technology-fqtNTB2H_yY-unsplash-p-800.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949dfdb4a8f554_loewe-technology-fqtNTB2H_yY-unsplash-p-1080.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949dfdb4a8f554_loewe-technology-fqtNTB2H_yY-unsplash-p-1080.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d77dfa8f718_bg-shape-006-p-500.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d77dfa8f718_bg-shape-006-p-500.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d77dfa8f718_bg-shape-006-p-800.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d77dfa8f718_bg-shape-006-p-800.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d77dfa8f718_bg-shape-006-p-1080.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d77dfa8f718_bg-shape-006-p-1080.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d77dfa8f718_bg-shape-006-p-1600.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d77dfa8f718_bg-shape-006-p-1600.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d77dfa8f718_bg-shape-006-p-2000.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d77dfa8f718_bg-shape-006-p-2000.png
+Content Type: image/png
+
+Uri: https://webflow.com/enterprise
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\enterprise.html
+Content Type: text/html
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d40f0a8f653_google.svg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d40f0a8f653_google.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949db56ca8f652_Facebook.svg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949db56ca8f652_Facebook.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949dcdaaa8f64d_vk.svg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949dcdaaa8f64d_vk.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d9bd6a8f64e_linkedin.svg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d9bd6a8f64e_linkedin.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d7639a8f711_bg-shape-08.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d7639a8f711_bg-shape-08.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949dbfc1a8f6cf_Rectangle-23.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949dbfc1a8f6cf_Rectangle-23.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d339fa8f555_photo-1616587226830-e493599b0c15.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d339fa8f555_photo-1616587226830-e493599b0c15.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949da10ca8f6da_stack_overflow.svg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949da10ca8f6da_stack_overflow.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949daf3fa8f702_blog-post-04.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949daf3fa8f702_blog-post-04.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d54f8a8f701_blog-post-01.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d54f8a8f701_blog-post-01.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d7639a8f711_bg-shape-08-p-500.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d7639a8f711_bg-shape-08-p-500.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d7639a8f711_bg-shape-08-p-800.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d7639a8f711_bg-shape-08-p-800.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d7639a8f711_bg-shape-08-p-1080.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d7639a8f711_bg-shape-08-p-1080.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d7639a8f711_bg-shape-08-p-1600.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d7639a8f711_bg-shape-08-p-1600.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d7639a8f711_bg-shape-08-p-2000.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d7639a8f711_bg-shape-08-p-2000.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d7639a8f711_bg-shape-08-p-2600.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d7639a8f711_bg-shape-08-p-2600.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949dbfc1a8f6cf_Rectangle-23-p-500.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949dbfc1a8f6cf_Rectangle-23-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949dbfc1a8f6cf_Rectangle-23-p-800.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949dbfc1a8f6cf_Rectangle-23-p-800.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949daf3fa8f702_blog-post-04-p-1080.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949daf3fa8f702_blog-post-04-p-1080.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d54f8a8f701_blog-post-01-p-1080.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d54f8a8f701_blog-post-01-p-1080.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d2200a8f708_bg-shape-01.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d2200a8f708_bg-shape-01.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d7c31a8f6fd_blog-posts-07.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d7c31a8f6fd_blog-posts-07.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d7abfa8f6f0_Rectangle-35.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d7abfa8f6f0_Rectangle-35.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d79d8a8f6cc_Rectangle-24.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d79d8a8f6cc_Rectangle-24.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d633ea8f6f7_blog-posts-03.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d633ea8f6f7_blog-posts-03.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949deebea8f6e0_intercom.svg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949deebea8f6e0_intercom.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d3d05a8f6dc_reddit.svg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d3d05a8f6dc_reddit.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949ded60a8f6d9_webflow-icon.svg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949ded60a8f6d9_webflow-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d5fdfa8f6c4_avatar-03.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d5fdfa8f6c4_avatar-03.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d2ac1a8f6a5_quote-sign-01.svg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d2ac1a8f6a5_quote-sign-01.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d7b3ca8f6ea_avatar-landscape-03.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d7b3ca8f6ea_avatar-landscape-03.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d2200a8f708_bg-shape-01-p-500.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d2200a8f708_bg-shape-01-p-500.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d2200a8f708_bg-shape-01-p-800.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d2200a8f708_bg-shape-01-p-800.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d2200a8f708_bg-shape-01-p-1080.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d2200a8f708_bg-shape-01-p-1080.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d2200a8f708_bg-shape-01-p-1600.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d2200a8f708_bg-shape-01-p-1600.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d7c31a8f6fd_blog-posts-07-p-500.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d7c31a8f6fd_blog-posts-07-p-500.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d7abfa8f6f0_Rectangle-35-p-500.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d7abfa8f6f0_Rectangle-35-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d7abfa8f6f0_Rectangle-35-p-800.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d7abfa8f6f0_Rectangle-35-p-800.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d79d8a8f6cc_Rectangle-24-p-500.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d79d8a8f6cc_Rectangle-24-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d79d8a8f6cc_Rectangle-24-p-800.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d79d8a8f6cc_Rectangle-24-p-800.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d633ea8f6f7_blog-posts-03-p-500.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d633ea8f6f7_blog-posts-03-p-500.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d633ea8f6f7_blog-posts-03-p-800.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d633ea8f6f7_blog-posts-03-p-800.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d7b3ca8f6ea_avatar-landscape-03-p-500.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d7b3ca8f6ea_avatar-landscape-03-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d8927a8f69e_windows-4jObbWz5vfI.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d8927a8f69e_windows-4jObbWz5vfI.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d2707a8f6c2_avatar-01.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d2707a8f6c2_avatar-01.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d1a5da8f6e4_avatar-01.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d1a5da8f6e4_avatar-01.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d0a69a8f6c3_avatar-02.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d0a69a8f6c3_avatar-02.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949dee5ea8f6f2_avatar-02.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949dee5ea8f6f2_avatar-02.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d5a01a8f706_logomark_01.svg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d5a01a8f706_logomark_01.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d8927a8f69e_windows-4jObbWz5vfI-p-1080.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d8927a8f69e_windows-4jObbWz5vfI-p-1080.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d2707a8f6c2_avatar-01-p-500.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d2707a8f6c2_avatar-01-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d0a69a8f6c3_avatar-02-p-500.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d0a69a8f6c3_avatar-02-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d3bc7a8f737_avatar-women-01.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d3bc7a8f737_avatar-women-01.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d3bc7a8f737_avatar-women-01-p-500.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d3bc7a8f737_avatar-women-01-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d3bc7a8f737_avatar-women-01-p-800.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d3bc7a8f737_avatar-women-01-p-800.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d3f04a8f47b_logo-07-white.svg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d3f04a8f47b_logo-07-white.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d11d6a8f6f4_blog-post-06.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d11d6a8f6f4_blog-post-06.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d11d6a8f6f4_blog-post-06-p-1080.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d11d6a8f6f4_blog-post-06-p-1080.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949da442a8f6a8_windows-72LU8QlGs5E.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949da442a8f6a8_windows-72LU8QlGs5E.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949dd6fca8f4d4_photo-1612832021455-245704c6755a.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949dd6fca8f4d4_photo-1612832021455-245704c6755a.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949df1bba8f6b0_windows-oVAzLDIdqic.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949df1bba8f6b0_windows-oVAzLDIdqic.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949da442a8f6a8_windows-72LU8QlGs5E-p-500.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949da442a8f6a8_windows-72LU8QlGs5E-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949da442a8f6a8_windows-72LU8QlGs5E-p-1080.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949da442a8f6a8_windows-72LU8QlGs5E-p-1080.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949df1bba8f6b0_windows-oVAzLDIdqic-p-1080.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949df1bba8f6b0_windows-oVAzLDIdqic-p-1080.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d58a9a8f6c8_Rectangle-33.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d58a9a8f6c8_Rectangle-33.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d594ea8f6ec_avatar-landscape-01.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d594ea8f6ec_avatar-landscape-01.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d30b2a8f6eb_avatar-landscape-02.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d30b2a8f6eb_avatar-landscape-02.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d58a9a8f6c8_Rectangle-33-p-500.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d58a9a8f6c8_Rectangle-33-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d58a9a8f6c8_Rectangle-33-p-800.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d58a9a8f6c8_Rectangle-33-p-800.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d594ea8f6ec_avatar-landscape-01-p-500.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d594ea8f6ec_avatar-landscape-01-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d30b2a8f6eb_avatar-landscape-02-p-500.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d30b2a8f6eb_avatar-landscape-02-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://codebase-template.webflow.io/post/7-things-about-web-design-your-boss-wants-to-know
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\post\7-things-about-web-design-your-boss-wants-to-know.html
+Content Type: text/html
+
+Uri: https://codebase-template.webflow.io/post/the-worst-advice-weve-ever-heard-about-web-design
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\post\the-worst-advice-weve-ever-heard-about-web-design.html
+Content Type: text/html
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d07dda8f6ce_Rectangle-89.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d07dda8f6ce_Rectangle-89.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2ce52949d0196a8f42c/6239c2ce52949d2091a8f56d_avatar-04.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2ce52949d0196a8f42c\6239c2ce52949d2091a8f56d_avatar-04.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2ce52949d0196a8f42c/6239c2ce52949d1b6ea8f5b4_avatar-05.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2ce52949d0196a8f42c\6239c2ce52949d1b6ea8f5b4_avatar-05.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2ce52949d0196a8f42c/6239c2ce52949de38fa8f50c_avatar-01.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2ce52949d0196a8f42c\6239c2ce52949de38fa8f50c_avatar-01.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2ce52949d0196a8f42c/6239c2ce52949d1ceea8f59a_avatar-02.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2ce52949d0196a8f42c\6239c2ce52949d1ceea8f59a_avatar-02.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2ce52949d0196a8f42c/6239c2ce52949dae19a8f540_avatar-03.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2ce52949d0196a8f42c\6239c2ce52949dae19a8f540_avatar-03.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2ce52949d0196a8f42c/6239c2ce52949d6039a8f6c0_blog-post-06.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2ce52949d0196a8f42c\6239c2ce52949d6039a8f6c0_blog-post-06.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2ce52949d0196a8f42c/6239c2ce52949d9bdfa8f675_blog-post_thumb-04.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2ce52949d0196a8f42c\6239c2ce52949d9bdfa8f675_blog-post_thumb-04.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d07dda8f6ce_Rectangle-89-p-500.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d07dda8f6ce_Rectangle-89-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d07dda8f6ce_Rectangle-89-p-800.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d07dda8f6ce_Rectangle-89-p-800.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2ce52949d0196a8f42c/6239c2ce52949d6039a8f6c0_blog-post-06-p-1080.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2ce52949d0196a8f42c\6239c2ce52949d6039a8f6c0_blog-post-06-p-1080.jpeg
+Content Type: image/jpeg
+
+Uri: https://codebase-template.webflow.io/job/customer-marketing
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\job\customer-marketing.html
+Content Type: text/html
+
+Uri: https://codebase-template.webflow.io/job/head-of-customer-success
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\job\head-of-customer-success.html
+Content Type: text/html
+
+Uri: https://codebase-template.webflow.io/job/lead-user-interface-designer
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\job\lead-user-interface-designer.html
+Content Type: text/html
+
+Uri: https://assets.website-files.com/623084d279dbe50d833112d1/623084d279dbe52e2d31145a_avatar-closeup-man-01.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\623084d279dbe50d833112d1\623084d279dbe52e2d31145a_avatar-closeup-man-01.jpg
+Content Type: image/jpeg
+
+Uri: https://codebase-template.webflow.io/blog-categories/company
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\blog-categories\company.html
+Content Type: text/html
+
+Uri: https://codebase-template.webflow.io/blog-categories/product
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\blog-categories\product.html
+Content Type: text/html
+
+Uri: https://codebase-template.webflow.io/blog-categories/user-testing
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\blog-categories\user-testing.html
+Content Type: text/html
+
+Uri: https://codebase-template.webflow.io/blog-categories/ecommerce
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\blog-categories\ecommerce.html
+Content Type: text/html
+
+Uri: https://codebase-template.webflow.io/blog-categories/product-management
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\blog-categories\product-management.html
+Content Type: text/html
+
+Uri: https://codebase-template.webflow.io/post/5-principles-of-effective-web-design
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\post\5-principles-of-effective-web-design.html
+Content Type: text/html
+
+Uri: https://codebase-template.webflow.io/post/10-things-nobody-told-you-about-being-a-web-designer
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\post\10-things-nobody-told-you-about-being-a-web-designer.html
+Content Type: text/html
+
+Uri: https://codebase-template.webflow.io/post/why-we-love-webflow-and-you-should-too
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\post\why-we-love-webflow-and-you-should-too.html
+Content Type: text/html
+
+Uri: https://codebase-template.webflow.io/post/7-must-have-tools-for-web-designers
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\post\7-must-have-tools-for-web-designers.html
+Content Type: text/html
+
+Uri: https://codebase-template.webflow.io/company/blog?5705a28c_page=2
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\company\blog-1.html
+Content Type: text/html
+
+Uri: https://assets.website-files.com/6239c2ce52949d0196a8f42c/6239c2ce52949df73aa8f5ec_blog-post_thumb-01.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2ce52949d0196a8f42c\6239c2ce52949df73aa8f5ec_blog-post_thumb-01.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2ce52949d0196a8f42c/6239c2ce52949d664da8f6fc_blog-post_thumb-07.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2ce52949d0196a8f42c\6239c2ce52949d664da8f6fc_blog-post_thumb-07.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2ce52949d0196a8f42c/6239c2ce52949da912a8f648_blog-post_thumb-03.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2ce52949d0196a8f42c\6239c2ce52949da912a8f648_blog-post_thumb-03.jpg
+Content Type: image/jpeg
+
+Uri: https://webflow.com/legal/eu-privacy-policy
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\legal\eu-privacy-policy.html
+Content Type: text/html
+
+Uri: https://en.wikipedia.org/wiki/German_Americans
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\wiki\German_Americans.html
+Content Type: text/html
+
+Uri: https://en.wikipedia.org/wiki/Alcohol_(drug)
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\wiki\Alcohol_(drug).html
+Content Type: text/html
+
+Uri: https://en.wikipedia.org/wiki/Federal_Bureau_of_Investigation
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\wiki\Federal_Bureau_of_Investigation.html
+Content Type: text/html
+
+Uri: https://en.wikipedia.org/wiki/Notes_of_a_Dirty_Old_Man
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\wiki\Notes_of_a_Dirty_Old_Man.html
+Content Type: text/html
+
+Uri: https://en.wikipedia.org/wiki/Open_City_(newspaper)
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\wiki\Open_City_(newspaper).html
+Content Type: text/html
+
+Uri: https://en.wikipedia.org/wiki/New_York_Quarterly
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\wiki\New_York_Quarterly.html
+Content Type: text/html
+
+Uri: https://en.wikipedia.org/wiki/Chiron_Review
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\wiki\Chiron_Review.html
+Content Type: text/html
+
+Uri: https://en.wikipedia.org/wiki/Slipstream_Magazine
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\wiki\Slipstream_Magazine.html
+Content Type: text/html
+
+Uri: https://en.wikipedia.org/wiki/Charles_Potts
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\wiki\Charles_Potts.html
+Content Type: text/html
+
+Uri: https://en.wikipedia.org/wiki/John_Martin_(publisher)
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\wiki\John_Martin_(publisher).html
+Content Type: text/html
+
+Uri: https://en.wikipedia.org/wiki/Black_Sparrow_Press
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\wiki\Black_Sparrow_Press.html
+Content Type: text/html
+
+Uri: https://en.wikipedia.org/wiki/HarperCollins
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\wiki\HarperCollins.html
+Content Type: text/html
+
+Uri: https://en.wikipedia.org/wiki/Ecco_Press
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\wiki\Ecco_Press.html
+Content Type: text/html
+
+Uri: https://en.wikipedia.org/wiki/Time_(magazine)
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\wiki\Time_(magazine).html
+Content Type: text/html
+
+Uri: https://en.wikipedia.org/wiki/Laureate
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\wiki\Laureate.html
+Content Type: text/html
+
+Uri: https://en.wikipedia.org/wiki/Adam_Kirsch
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\wiki\Adam_Kirsch.html
+Content Type: text/html
+
+Uri: https://en.wikipedia.org/wiki/The_New_Yorker
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\wiki\The_New_Yorker.html
+Content Type: text/html
+
+Uri: https://en.wikipedia.org/wiki/Pulp_magazine
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\wiki\Pulp_magazine.html
+Content Type: text/html
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d9760a8f6d7_Rectangle-26.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d9760a8f6d7_Rectangle-26.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2ce52949d0196a8f42c/6239c2ce52949d3214a8f5c7_avatar-landscape-05.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2ce52949d0196a8f42c\6239c2ce52949d3214a8f5c7_avatar-landscape-05.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d9760a8f6d7_Rectangle-26-p-500.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d9760a8f6d7_Rectangle-26-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d9760a8f6d7_Rectangle-26-p-800.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d9760a8f6d7_Rectangle-26-p-800.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2ce52949d0196a8f42c/6239c2ce52949d3214a8f5c7_avatar-landscape-05-p-500.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2ce52949d0196a8f42c\6239c2ce52949d3214a8f5c7_avatar-landscape-05-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d39efa8f70f_bg-shape-06.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d39efa8f70f_bg-shape-06.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2ce52949d0196a8f42c/6239c2ce52949d282ea8f607_blog-post-02.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2ce52949d0196a8f42c\6239c2ce52949d282ea8f607_blog-post-02.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d39efa8f70f_bg-shape-06-p-500.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d39efa8f70f_bg-shape-06-p-500.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d39efa8f70f_bg-shape-06-p-800.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d39efa8f70f_bg-shape-06-p-800.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d39efa8f70f_bg-shape-06-p-1080.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d39efa8f70f_bg-shape-06-p-1080.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d39efa8f70f_bg-shape-06-p-1600.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d39efa8f70f_bg-shape-06-p-1600.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d39efa8f70f_bg-shape-06-p-2000.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d39efa8f70f_bg-shape-06-p-2000.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2cd52949d0f76a8f421/6239c2ce52949d39efa8f70f_bg-shape-06-p-2600.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2cd52949d0f76a8f421\6239c2ce52949d39efa8f70f_bg-shape-06-p-2600.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2ce52949d0196a8f42c/6239c2ce52949d282ea8f607_blog-post-02-p-1080.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2ce52949d0196a8f42c\6239c2ce52949d282ea8f607_blog-post-02-p-1080.jpeg
+Content Type: image/jpeg
+
+Uri: https://unsplash.com/@rusa82/likes
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\@rusa82\likes.html
+Content Type: text/html
+
+Uri: https://www.flaticon.com/authors/smashingstocks/hand-drawn-black?author_id=716
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\authors\smashingstocks\hand-drawn-black.html
+Content Type: text/html
+
+Uri: https://assets.website-files.com/623084d279dbe50d833112d1/623084d279dbe55fda31157a_barricade.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\623084d279dbe50d833112d1\623084d279dbe55fda31157a_barricade.png
+Content Type: image/png
+
+Uri: https://university.webflow.com/
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\index-1.htm
+Content Type: text/html
+
+Uri: https://github.com/adobe-fonts/emojione-color
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\adobe-fonts\emojione-color.html
+Content Type: text/html
+
+Uri: https://assets.website-files.com/6239c2ce52949d0196a8f42c/6239c2ce52949d3462a8f52e_avatar-landscape-02.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2ce52949d0196a8f42c\6239c2ce52949d3462a8f52e_avatar-landscape-02.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2ce52949d0196a8f42c/6239c2ce52949d3462a8f52e_avatar-landscape-02-p-500.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2ce52949d0196a8f42c\6239c2ce52949d3462a8f52e_avatar-landscape-02-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2ce52949d0196a8f42c/6239c2ce52949d4125a8f6d4_blog-post_thumb-06.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2ce52949d0196a8f42c\6239c2ce52949d4125a8f6d4_blog-post_thumb-06.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2ce52949d0196a8f42c/6239c2ce52949db6faa8f662_blog-post-04.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2ce52949d0196a8f42c\6239c2ce52949db6faa8f662_blog-post-04.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2ce52949d0196a8f42c/6239c2ce52949db6faa8f662_blog-post-04-p-1080.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2ce52949d0196a8f42c\6239c2ce52949db6faa8f662_blog-post-04-p-1080.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2ce52949d0196a8f42c/6239c2ce52949da046a8f619_blog-post_thumb-02.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2ce52949d0196a8f42c\6239c2ce52949da046a8f619_blog-post_thumb-02.jpg
+Content Type: image/jpeg
+
+Uri: https://codebase-template.webflow.io/post/20-myths-about-web-design
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\post\20-myths-about-web-design.html
+Content Type: text/html
+
+Uri: https://codebase-template.webflow.io/post/14-common-misconceptions-about-web-design
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\post\14-common-misconceptions-about-web-design.html
+Content Type: text/html
+
+Uri: https://codebase-template.webflow.io/post/10-great-examples-of-responsive-websites
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\post\10-great-examples-of-responsive-websites.html
+Content Type: text/html
+
+Uri: https://assets.website-files.com/6239c2ce52949d0196a8f42c/6239c2ce52949d78cca8f6ac_blog-post_thumb-05.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2ce52949d0196a8f42c\6239c2ce52949d78cca8f6ac_blog-post_thumb-05.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2ce52949d0196a8f42c/6239c2ce52949dad9ea8f5da_blog-post-01.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2ce52949d0196a8f42c\6239c2ce52949dad9ea8f5da_blog-post-01.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2ce52949d0196a8f42c/6239c2ce52949dad9ea8f5da_blog-post-01-p-1080.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2ce52949d0196a8f42c\6239c2ce52949dad9ea8f5da_blog-post-01-p-1080.jpeg
+Content Type: image/jpeg
+
+Uri: https://codebase-template.webflow.io/team/lolita-predovic
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\team\lolita-predovic.html
+Content Type: text/html
+
+Uri: https://assets.website-files.com/6239c2ce52949d0196a8f42c/6239c2ce52949d3f70a8f6e8_blog-post-07.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2ce52949d0196a8f42c\6239c2ce52949d3f70a8f6e8_blog-post-07.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2ce52949d0196a8f42c/6239c2ce52949d3f70a8f6e8_blog-post-07-p-1080.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2ce52949d0196a8f42c\6239c2ce52949d3f70a8f6e8_blog-post-07-p-1080.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2ce52949d0196a8f42c/6239c2ce52949d25faa8f636_blog-post-03.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2ce52949d0196a8f42c\6239c2ce52949d25faa8f636_blog-post-03.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2ce52949d0196a8f42c/6239c2ce52949d25faa8f636_blog-post-03-p-1080.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2ce52949d0196a8f42c\6239c2ce52949d25faa8f636_blog-post-03-p-1080.jpeg
+Content Type: image/jpeg
+
+Uri: https://codebase-template.webflow.io/company/blog?5705a28c_page=1
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\company\blog-2.html
+Content Type: text/html
+
+Uri: https://assets.website-files.com/6239c2ce52949d0196a8f42c/6239c2ce52949d6536a8f698_blog-post-05.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2ce52949d0196a8f42c\6239c2ce52949d6536a8f698_blog-post-05.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2ce52949d0196a8f42c/6239c2ce52949d6536a8f698_blog-post-05-p-500.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2ce52949d0196a8f42c\6239c2ce52949d6536a8f698_blog-post-05-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://codebase-template.webflow.io/team/ardella-miller
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\team\ardella-miller.html
+Content Type: text/html
+
+Uri: https://assets.website-files.com/6239c2ce52949d0196a8f42c/6239c2ce52949de0daa8f4de_616e938268c8f0e969b2c17a_Add Photo 3.png
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2ce52949d0196a8f42c\6239c2ce52949de0daa8f4de_616e938268c8f0e969b2c17a_Add Photo 3.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6239c2ce52949d0196a8f42c/6239c2ce52949d437fa8f588_avatar-landscape-04.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2ce52949d0196a8f42c\6239c2ce52949d437fa8f588_avatar-landscape-04.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2ce52949d0196a8f42c/6239c2ce52949d437fa8f588_avatar-landscape-04-p-500.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2ce52949d0196a8f42c\6239c2ce52949d437fa8f588_avatar-landscape-04-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2ce52949d0196a8f42c/6239c2ce52949d4b32a8f55c_avatar-landscape-03.jpg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2ce52949d0196a8f42c\6239c2ce52949d4b32a8f55c_avatar-landscape-03.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6239c2ce52949d0196a8f42c/6239c2ce52949d4b32a8f55c_avatar-landscape-03-p-500.jpeg
+File Name: C:\Downloaded Web Sites\codebase-template.webflow.io\6239c2ce52949d0196a8f42c\6239c2ce52949d4b32a8f55c_avatar-landscape-03-p-500.jpeg
+Content Type: image/jpeg
+
